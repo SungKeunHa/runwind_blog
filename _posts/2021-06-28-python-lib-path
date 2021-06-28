@@ -1,0 +1,11 @@
+# python 3rd party library path
+
+주로 윈도우에서 사용하다 보니 library path를    
+  1. Windows : Lib\site-packages   
+만 알고 있었는데 mac에서의 경로가 궁금해서 방법을 찾아보니   
+   
+```python
+import sys
+sys.path
+```
+을 사용하면 확인이 가능하다   
