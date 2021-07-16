@@ -13,5 +13,11 @@ sys.path
    
 추가로 mac에서 숨김 폴더를 보느 방법은    
   shift + command + G   
-를 하며 찾아가기가 나오고 그곳에 필요하 경로를 타이핑해주며 된다.    
+   
+를 하며 찾아가기가 나오고 그곳에 필요한 경로를 타이핑해주며 된다.    
+   
+vscode open dialog에서는 
+  command + shift + .   
+를 하면 hidden path가 보여서 선택할 수 있다
+
 항상 그렇지만 검색하며 다나오는....
